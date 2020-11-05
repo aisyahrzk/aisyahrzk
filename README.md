@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/aisyah-razak-25b3b21b0"
+
 <!--
 **aisyahrzk/aisyahrzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
