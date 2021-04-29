@@ -3,6 +3,7 @@
 Drop by my kaggle and linkedin profile 😄 :
 
 https://www.linkedin.com/in/aisyahh-razak/
+
 https://www.kaggle.com/aisyahhrazak
 
 <!--
