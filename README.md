@@ -1,5 +1,9 @@
 ### 👋⚡
 
+Drop by my kaggle and linkedin profile 😄 :
+
+https://www.linkedin.com/in/aisyahh-razak/
+https://www.kaggle.com/aisyahhrazak
 
 <!--
 **aisyahrzk/aisyahrzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
