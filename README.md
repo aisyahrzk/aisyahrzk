@@ -1,11 +1,17 @@
-### 👋⚡
+### Hi 👋⚡
 
-Drop by my kaggle and linkedin profile 😄 :
 
-https://www.linkedin.com/in/aisyahh-razak/
+I am a third year computer science student in University of Malaya. Currently learning data science and machine learning.
 
-https://www.kaggle.com/aisyahhrazak
+- 🔭 I’m currently in my data science internship
+- 🌱 I’m working on an end to end computer vision machine learning project
+- 💬 Ask me about cats :)
+- 😄 I like to code, hiking, watch movies in my free time
 
+Visit my profile:
+
+[![Linkedin: Aisyah Razak](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisyahh-razak/)
+[![Kaggle](https://iconape.com/wp-content/files/rl/179596/svg/kaggle-seeklogo.com.svg)](https://www.kaggle.com/aisyahhrazak)
 <!--
 **aisyahrzk/aisyahrzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
