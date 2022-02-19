@@ -6,7 +6,7 @@ I am a third year computer science student in University of Malaya. Currently le
 - 🔭 I’m currently in my data science internship
 - 🌱 I’m working on an end to end computer vision machine learning project
 - 💬 Ask me about cats :)
-- 😄 I like to code, hiking, and watch movies in my free time
+- 😄 I like to code, hike, and watch movies in my free time
 
 Visit my profile:
 
