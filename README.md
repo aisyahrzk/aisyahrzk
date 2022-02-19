@@ -11,7 +11,7 @@ I am a third year computer science student in University of Malaya. Currently le
 Visit my profile:
 
 [![Linkedin: Aisyah Razak](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisyahh-razak/)
-[![Kaggle](https://img.shields.io/badge/<Kaggle>-<Follow>-<blue>.svg)](https://www.kaggle.com/aisyahhrazak)
+
 <!--
 **aisyahrzk/aisyahrzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
