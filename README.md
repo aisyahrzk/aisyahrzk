@@ -8,9 +8,10 @@ I am a third year computer science student in University of Malaya. Currently le
 - 💬 Ask me about cats :)
 - 😄 I like to code, hike, and watch movies in my free time
 
-Visit my profile:
+Reach me:
 
 [![Linkedin: Aisyah Razak](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisyahh-razak/)
+<a href="mailto:aisyahrazak171@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-aisyahrazak171@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 <!--
 **aisyahrzk/aisyahrzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
