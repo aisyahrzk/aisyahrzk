@@ -4,7 +4,6 @@
 I am a third year computer science student in University of Malaya. Currently learning data science and machine learning.
 
 - 🔭 I’m currently in my data science internship
-- 💬 Ask me about cats :)
 - 😄 I like to code, hike, and watch movies in my free time
 
 Reach me:
