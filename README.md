@@ -5,6 +5,8 @@ I am a third year computer science student in University of Malaya. Currently le
 
 - 🔭 I’m currently in my data science internship
 - 😄 I like to code, hike, and watch movies in my free time
+- Spent most of my time at Kaggle
+- Currently seeking internships and a mentor!
 
 Reach me:
 
