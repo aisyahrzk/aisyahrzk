@@ -1,10 +1,7 @@
 ### Hi 👋⚡
 
+Third year computer science student in University of Malaya. Currently learning data science and machine learning.
 
-I am a third year computer science student in University of Malaya. Currently learning data science and machine learning.
-
-- Spent most of my time at Kaggle
-- Actively seeking internships and a mentor!
 
 Reach me:
 
