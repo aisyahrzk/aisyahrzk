@@ -2,6 +2,7 @@
 
 Third year computer science student in University of Malaya. Currently learning data science and machine learning.
 
+Kaggle: https://www.kaggle.com/aisyahhrazak
 
 Reach me:
 
