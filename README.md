@@ -2,8 +2,6 @@
 
 💻 Currently in my learning journey of exploring and learning data science. 
 
-🌟 If you have any data-related projects, collaboration opportunities, or simply want to connect and share insights, feel free to reach out. I'm always excited to collaborate, learn from others, and contribute.
-
 📫 You can reach me via email at [aisyahrazak171@gmail.com](aisyahrazak171@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/aisyahh-razak/)
 
 <!--
