@@ -1,13 +1,10 @@
-### Hi 👋⚡
+👋 Hello there! I'm aisyah, CS graduate from University of Malaya majoring in data science.
 
-Third year computer science student in University of Malaya. Currently learning data science and machine learning.
+💻 Currently in my learning journey of exploring and learning data science. 
 
-Kaggle: https://www.kaggle.com/aisyahhrazak
+🌟 If you have any data-related projects, collaboration opportunities, or simply want to connect and share insights, feel free to reach out. I'm always excited to collaborate, learn from others, and contribute.
 
-Reach me:
-
-[![Linkedin: Aisyah Razak](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisyahh-razak/)
-<a href="mailto:aisyahrazak171@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-aisyahrazak171@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+📫 You can reach me via email at [aisyahrazak171@gmail.com](aisyahrazak171@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/aisyahh-razak/)
 
 <!--
 **aisyahrzk/aisyahrzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
