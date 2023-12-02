@@ -1,6 +1,5 @@
-👋 Hello there! I'm aisyah, CS graduate from University of Malaya majoring in data science.
+👋 Hello there! I'm aisyah.
 
-💻 Currently in my learning journey of exploring and learning data science. 
 
 📫 You can reach me via email at [aisyahrazak171@gmail.com](aisyahrazak171@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/aisyahh-razak/)
 
