@@ -3,7 +3,7 @@
 
 📫 You can reach me via email at [aisyahrazak171@gmail.com](aisyahrazak171@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/aisyahh-razak/)
 
-Probably training models somewhere, refer here https://wandb.ai/aisyahrazak?nw=nwuseraisyahrazak.
+Probably training models somewhere here https://wandb.ai/aisyahrazak?nw=nwuseraisyahrazak.
 
 <!--
 **aisyahrzk/aisyahrzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
